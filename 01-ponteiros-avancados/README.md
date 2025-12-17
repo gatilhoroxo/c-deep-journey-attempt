@@ -126,6 +126,7 @@ int **pp = &p;
 
 Ponteiros em C podem ser somados ou subtraídos. O compilador automaticamente ajusta o incremento baseado no tamanho do tipo!
 
+<!--Nao acho que essa analogia fez tanto sentido, ou se relacionou bem com o tópico-->
 **Analogia:** Navegar de ilha em ilha na Grand Line - cada "passo" te leva para a próxima ilha completa, não para o meio do mar!
 
 ### Regras Fundamentais

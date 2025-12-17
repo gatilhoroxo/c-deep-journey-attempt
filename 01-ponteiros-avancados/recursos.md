@@ -10,13 +10,13 @@
    - 📘 A bíblia do C, escrita pelos criadores
    - ⭐ **Capítulo 5:** Ponteiros e Arrays (essencial!)
    - 💡 Claro, conciso, exemplos práticos
-   - 🔗 [Amazon](https://www.amazon.com.br/Programming-Language-Brian-W-Kernighan/dp/0131103628)
+   - 🔗 [cimat-view-pdf](https://www.cimat.mx/ciencia_para_jovenes/bachillerato/libros/%5BKernighan-Ritchie%5DThe_C_Programming_Language.pdf)
 
 2. **C Programming: A Modern Approach (2nd Edition)** - K. N. King
    - 📘 Abordagem moderna e didática
    - ⭐ Excelente para entender ponteiros gradualmente
    - 💡 Muitos exercícios práticos
-   - 🔗 [Amazon](https://www.amazon.com.br/C-Programming-Modern-Approach-2nd/dp/0393979504)
+   - 🔗 [archive-viewer](https://archive.org/details/c-programming-a-modern-approach-2nd-ed-c-89-c-99-king-by/page/n3/mode/2up)
 
 3. **Beej's Guide to C Programming**
    - 📘 Gratuito e online!
@@ -30,18 +30,19 @@
    - 📘 Mergulho profundo em C
    - ⭐ Capítulos sobre ponteiros complexos
    - 💡 Histórias e contexto histórico
-   - 🔗 [Amazon](https://www.amazon.com.br/Expert-Programming-Peter-van-Linden/dp/0131774298)
+   - 🔗 [progforperf-view-pdf](https://progforperf.github.io/Expert_C_Programming.pdf)
 
 5. **Understanding and Using C Pointers** - Richard Reese
    - 📘 Livro dedicado APENAS a ponteiros
    - ⭐ Cobre todos os aspectos imagináveis
    - 💡 Diagramas excelentes
-   - 🔗 [O'Reilly](https://www.oreilly.com/library/view/understanding-and-using/9781449344535/)
+   - 🔗 [r-5-view-pdf](http://www.r-5.org/files/books/computers/compilers/writing/Richard_Reese-Understanding_and_Using_C_Pointers-EN.pdf)
 
 6. **Pointers in C: A Hands on Approach** - Naveen Toppo & Hrishikesh Dewan
    - 📘 Abordagem prática
    - ⭐ Muitos exemplos visuais
    - 💡 Bom para prática intensiva
+   - 🔗 [epdf-view-download](https://epdf.pub/pointers-in-c-a-hands-on-approach357e8cd910fced0083bb89090c56f10379419.html)
 
 ### Para Desenvolvimento de Sistemas
 
