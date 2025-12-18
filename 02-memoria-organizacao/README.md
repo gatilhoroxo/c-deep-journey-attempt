@@ -8,4 +8,4 @@
 
 **Por que é importante:** Para criar um OS, você precisa entender exatamente como a memória é organizada. É como conhecer cada ilha da Grand Line antes de navegar.
 
-**Diretório:** `journey/02-memoria-organizacao/`
+**Diretório:** `02-memoria-organizacao/`

@@ -22,7 +22,7 @@ Este repositório está organizado seguindo uma trilha progressiva de aprendizad
 
 **Por que é importante:** Ponteiros são a essência do C. Dominar ponteiros é como dominar o Haki - você vai ver através das abstrações e entender o que realmente acontece na memória.
 
-**Diretório:** `journey/01-ponteiros-avancados/`
+**Diretório:** `01-ponteiros-avancados/`
 
 ---
 
@@ -36,7 +36,7 @@ Este repositório está organizado seguindo uma trilha progressiva de aprendizad
 
 **Por que é importante:** Para criar um OS, você precisa entender exatamente como a memória é organizada. É como conhecer cada ilha da Grand Line antes de navegar.
 
-**Diretório:** `journey/02-memoria-organizacao/`
+**Diretório:** `02-memoria-organizacao/`
 
 ---
 
@@ -50,7 +50,7 @@ Este repositório está organizado seguindo uma trilha progressiva de aprendizad
 
 **Por que é importante:** Entender o processo de compilação é essencial para debugar problemas complexos e otimizar código.
 
-**Diretório:** `journey/03-preprocessador-compilacao/`
+**Diretório:** `03-preprocessador-compilacao/`
 
 ---
 
@@ -66,7 +66,7 @@ Este repositório está organizado seguindo uma trilha progressiva de aprendizad
 
 **Por que é importante:** Para drivers e OS, às vezes você precisa falar diretamente com o hardware. É como aprender a linguagem dos Poneglyphs.
 
-**Diretório:** `journey/04-c-assembly/`
+**Diretório:** `04-c-assembly/`
 
 ---
 
@@ -80,7 +80,7 @@ Este repositório está organizado seguindo uma trilha progressiva de aprendizad
 
 **Por que é importante:** Este é o conhecimento necessário para microcontroladores e desenvolvimento de OS. Você vai programar o hardware diretamente.
 
-**Diretório:** `journey/05-bare-metal/`
+**Diretório:** `05-bare-metal/`
 
 ---
 
@@ -93,7 +93,7 @@ Este repositório está organizado seguindo uma trilha progressiva de aprendizad
 - Carregamento do kernel na memória
 - Configuração inicial do ambiente
 
-**Diretório:** `journey/06-bootloaders/`
+**Diretório:** `06-bootloaders/`
 
 ---
 
@@ -104,7 +104,7 @@ Este repositório está organizado seguindo uma trilha progressiva de aprendizad
 - Memory Management Unit (MMU)
 - Virtual memory
 
-**Diretório:** `journey/07-gerenciamento-memoria/`
+**Diretório:** `07-gerenciamento-memoria/`
 
 ---
 
@@ -115,7 +115,7 @@ Este repositório está organizado seguindo uma trilha progressiva de aprendizad
 - Context switching
 - Threads e concorrência
 
-**Diretório:** `journey/08-processos-escalonamento/`
+**Diretório:** `08-processos-escalonamento/`
 
 ---
 
@@ -126,7 +126,7 @@ Este repositório está organizado seguindo uma trilha progressiva de aprendizad
 - Drivers de rede
 - Framework para desenvolvimento de drivers
 
-**Diretório:** `journey/09-drivers/`
+**Diretório:** `09-drivers/`
 
 ---
 
@@ -137,7 +137,7 @@ Este repositório está organizado seguindo uma trilha progressiva de aprendizad
 - Sistema de arquivos
 - Seu próprio OS rodando!
 
-**Diretório:** `journey/10-os-completo/`
+**Diretório:** `10-os-completo/`
 
 ---
 
