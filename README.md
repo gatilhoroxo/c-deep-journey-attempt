@@ -1,5 +1,3 @@
-Aprendendo profundamente a linguagem c
-
 # 🏴‍☠️ c-deep-journey-attempt
 
 > *"Vou me tornar o Cavaleiro Negro da linguagem C!"*
@@ -147,14 +145,14 @@ Cada tópico segue a mesma estrutura:
 
 ```
 XX-nome-topico/
-├── README.md              # Tutorial detalhado do tópico
-├── exercicios.md          # Atividades para fixar conceitos
+├── readme.md              # Tutorial detalhado do tópico
+├── recursos.md            # Links e referências
 ├── projetos/              # Projetos práticos
 │   ├── projeto1/
 │   ├── projeto2/
 │   └── projeto3/
-├── exercicios/              # Códigos dos exercicios
-└── recursos.md            # Links e referências
+└── exercicios/              # Códigos dos exercicios
+    └── exercicios.md          # Atividades para fixar conceitos
 ```
 
 ## 🎯 Como Usar Este Repositório
