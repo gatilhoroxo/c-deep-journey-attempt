@@ -20,7 +20,7 @@ Este repositório está organizado seguindo uma trilha progressiva de aprendizad
 
 **Por que é importante:** Ponteiros são a essência do C. Dominar ponteiros é como dominar o Haki - você vai ver através das abstrações e entender o que realmente acontece na memória.
 
-**Diretório:** `01-ponteiros-avancados/`
+**Diretório:** `i1-ponteiros-avancados/`
 
 ---
 
@@ -34,7 +34,7 @@ Este repositório está organizado seguindo uma trilha progressiva de aprendizad
 
 **Por que é importante:** Para criar um OS, você precisa entender exatamente como a memória é organizada. É como conhecer cada ilha da Grand Line antes de navegar.
 
-**Diretório:** `02-memoria-organizacao/`
+**Diretório:** `i2-memoria-organizacao/`
 
 ---
 
@@ -48,7 +48,7 @@ Este repositório está organizado seguindo uma trilha progressiva de aprendizad
 
 **Por que é importante:** Entender o processo de compilação é essencial para debugar problemas complexos e otimizar código.
 
-**Diretório:** `03-preprocessador-compilacao/`
+**Diretório:** `i3-preprocessador-compilacao/`
 
 ---
 
@@ -64,7 +64,7 @@ Este repositório está organizado seguindo uma trilha progressiva de aprendizad
 
 **Por que é importante:** Para drivers e OS, às vezes você precisa falar diretamente com o hardware. É como aprender a linguagem dos Poneglyphs.
 
-**Diretório:** `04-c-assembly/`
+**Diretório:** `i4-c-assembly/`
 
 ---
 
@@ -78,7 +78,7 @@ Este repositório está organizado seguindo uma trilha progressiva de aprendizad
 
 **Por que é importante:** Este é o conhecimento necessário para microcontroladores e desenvolvimento de OS. Você vai programar o hardware diretamente.
 
-**Diretório:** `05-bare-metal/`
+**Diretório:** `i5-bare-metal/`
 
 ---
 
@@ -91,7 +91,7 @@ Este repositório está organizado seguindo uma trilha progressiva de aprendizad
 - Carregamento do kernel na memória
 - Configuração inicial do ambiente
 
-**Diretório:** `06-bootloaders/`
+**Diretório:** `i6-bootloaders/`
 
 ---
 
@@ -102,7 +102,7 @@ Este repositório está organizado seguindo uma trilha progressiva de aprendizad
 - Memory Management Unit (MMU)
 - Virtual memory
 
-**Diretório:** `07-gerenciamento-memoria/`
+**Diretório:** `i7-gerenciamento-memoria/`
 
 ---
 
@@ -113,7 +113,7 @@ Este repositório está organizado seguindo uma trilha progressiva de aprendizad
 - Context switching
 - Threads e concorrência
 
-**Diretório:** `08-processos-escalonamento/`
+**Diretório:** `i8-processos-escalonamento/`
 
 ---
 
@@ -124,7 +124,7 @@ Este repositório está organizado seguindo uma trilha progressiva de aprendizad
 - Drivers de rede
 - Framework para desenvolvimento de drivers
 
-**Diretório:** `09-drivers/`
+**Diretório:** `i9-drivers/`
 
 ---
 
@@ -135,7 +135,7 @@ Este repositório está organizado seguindo uma trilha progressiva de aprendizad
 - Sistema de arquivos
 - Seu próprio OS rodando!
 
-**Diretório:** `10-os-completo/`
+**Diretório:** `i10-os-completo/`
 
 ---
 
@@ -144,15 +144,21 @@ Este repositório está organizado seguindo uma trilha progressiva de aprendizad
 Cada tópico segue a mesma estrutura:
 
 ```
-XX-nome-topico/
-├── readme.md              # Tutorial detalhado do tópico
-├── recursos.md            # Links e referências
-├── projetos/              # Projetos práticos
-│   ├── projeto1/
-│   ├── projeto2/
-│   └── projeto3/
-└── exercicios/              # Códigos dos exercicios
-    └── exercicios.md          # Atividades para fixar conceitos
+iX-nome-topico/
+├── readme.md                  # Tutorial detalhado do tópico
+├── recursos.md                # Links e referências
+├── j1-teoria/                 # teoria
+│   ├── teoria.md
+│   ├── t1-nome/
+│   └── t2-nome/
+├── j2-exercicios/             # Códigos dos exercicios
+│   ├── exercicios.md          # Atividades para fixar conceitos
+│   ├── e1-nome/
+│   └── e2-nome/
+└── j3-projetos/               # Projetos práticos
+    ├── p1-nome/
+    ├── p2-nome/
+    └── p3-nome/
 ```
 
 ## 🎯 Como Usar Este Repositório
@@ -200,10 +206,6 @@ Para prática em microcontroladores, recomendo:
 ## 🤝 Contribuições
 
 Este é um repositório de estudo pessoal, mas sugestões são bem-vindas! Abra uma issue ou pull request.
-
-## 📜 Licença
-
-Este projeto está sob a licença MIT. Sinta-se livre para usar o material para seus estudos.
 
 ---
 
