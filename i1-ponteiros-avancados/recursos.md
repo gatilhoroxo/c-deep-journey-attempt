@@ -12,33 +12,29 @@
    - 💡 Claro, conciso, exemplos práticos
    - 🔗 [cimat-view-pdf](https://www.cimat.mx/ciencia_para_jovenes/bachillerato/libros/%5BKernighan-Ritchie%5DThe_C_Programming_Language.pdf)
 
-2. **C Programming: A Modern Approach (2nd Edition)** - K. N. King
-   - 📘 Abordagem moderna e didática
-   - ⭐ Excelente para entender ponteiros gradualmente
-   - 💡 Muitos exercícios práticos
-   - 🔗 [archive-viewer](https://archive.org/details/c-programming-a-modern-approach-2nd-ed-c-89-c-99-king-by/page/n3/mode/2up)
-
-3. **Beej's Guide to C Programming**
+2. **Beej's Guide to C Programming**
    - 📘 Gratuito e online!
    - ⭐ Linguagem acessível e divertida
    - 💡 Ótimo para referência rápida
    - 🔗 [Site Oficial](https://beej.us/guide/bgc/)
+      - [Book html](https://beej.us/guide/bgc/html/split/)
+      - [Lib Refer Book html](https://beej.us/guide/bgclr/html/split/)
 
 ### Para Avançados
 
-4. **Expert C Programming: Deep C Secrets** - Peter van der Linden
+3. **Expert C Programming: Deep C Secrets** - Peter van der Linden
    - 📘 Mergulho profundo em C
    - ⭐ Capítulos sobre ponteiros complexos
    - 💡 Histórias e contexto histórico
    - 🔗 [progforperf-view-pdf](https://progforperf.github.io/Expert_C_Programming.pdf)
 
-5. **Understanding and Using C Pointers** - Richard Reese
+4. **Understanding and Using C Pointers** - Richard Reese
    - 📘 Livro dedicado APENAS a ponteiros
    - ⭐ Cobre todos os aspectos imagináveis
    - 💡 Diagramas excelentes
    - 🔗 [r-5-view-pdf](http://www.r-5.org/files/books/computers/compilers/writing/Richard_Reese-Understanding_and_Using_C_Pointers-EN.pdf)
 
-6. **Pointers in C: A Hands on Approach** - Naveen Toppo & Hrishikesh Dewan
+5. **Pointers in C: A Hands on Approach** - Naveen Toppo & Hrishikesh Dewan
    - 📘 Abordagem prática
    - ⭐ Muitos exemplos visuais
    - 💡 Bom para prática intensiva
@@ -46,13 +42,13 @@
 
 ### Para Desenvolvimento de Sistemas
 
-7. **Operating Systems: Three Easy Pieces** - Remzi & Andrea Arpaci-Dusseau
+6. **Operating Systems: Three Easy Pieces** - Remzi & Andrea Arpaci-Dusseau
    - 📘 Gratuito online!
    - ⭐ Base teórica para OS development
    - 💡 Código em C para referência
    - 🔗 [Site Oficial](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
-8. **Operating System Concepts** - Silberschatz, Galvin, Gagne
+7. **Operating System Concepts** - Silberschatz, Galvin, Gagne
    - 📘 O "dinossauro" - livro clássico
    - ⭐ Teoria completa de OS
    - 💡 Exemplos em múltiplas linguagens
