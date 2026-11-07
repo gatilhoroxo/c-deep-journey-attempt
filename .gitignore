@@ -3,3 +3,5 @@ prog
 
 libs/untar
 libs/unzip
+libs/libs_file.tar
+libs/script.sh
